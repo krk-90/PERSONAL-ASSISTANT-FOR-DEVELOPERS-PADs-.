@@ -1,3 +1,5 @@
+.pads_memory.json
+.pads_git_approvals.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
